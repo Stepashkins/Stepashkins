@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [CorporationX](https://github.com/CorporationX)
 
 - My gmail ✉️ **step.palkov@gmail.com**
-- My telegram ![image](https://github.com/Stepashkins/Stepashkins/assets/121392656/c49af047-53d1-44e2-a865-e6e63a486230) **@just_stepa**
+- My telegram ![image](https://github.com/Stepashkins/Stepashkins/assets/121392656/b4e92685-0356-41d2-9b77-a8fd5a389320) **@just_stepa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
