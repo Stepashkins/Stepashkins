@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [CorporationX](https://github.com/CorporationX)
 
-- 📫 How to reach me **step.palkov@gmail.com**
+- My gmail ✉️ **step.palkov@gmail.com**
+- My telegram ![image](https://github.com/Stepashkins/Stepashkins/assets/121392656/c49af047-53d1-44e2-a865-e6e63a486230) **@just_stepa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
