@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Stepan</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [CorporationX](https://github.com/CorporationX)
 
